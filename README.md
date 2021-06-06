@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @AaronWeber90
-- 👀 I’m interested in Html, Css and Javascript
+- 👋 Hi, I’m **Aaron**
+- 👀 I’m interested in **Html**, **Css** and **Javascript**
+- :blue_heart: I’m currently working at [Decathlon Austria](http://www.decathlon.at/ "Decathlon Austria")
+  - as **Webmarketer**
+  - and **Front End Developer**
 - 🌱 I’m currently learning at CodeFactory
 - 📫 How to reach me -> aaronweber@gmx.at
 
