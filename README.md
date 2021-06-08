@@ -4,7 +4,7 @@
 
 - :blue_heart: I’m currently working at [**Decathlon Austria**](http://www.decathlon.at/ "Decathlon Austria")
   - as **Webmarketer**
-  - and **Front End Developer**
+  - and soon **Front End Developer**
 
 - 🌱 I’m currently learning at **CodeFactory**
 
