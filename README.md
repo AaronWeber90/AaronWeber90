@@ -4,9 +4,9 @@
 
 - :blue_heart: I’m currently working at [**Decathlon Austria**](http://www.decathlon.at/ "Decathlon Austria")
   - as **Webmarketer**
-  - and soon **Front End Developer**
+  - and **Front End Developer**
 
-- 🌱 I’m currently learning at **CodeFactory**
+- 🌱 I’m currently learning at **Scrimba**
 
 - 📫 How to reach me -> **aaronweber@gmx.at** / **aaron.weber@decathlon.com**
 
