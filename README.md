@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Aaron**
 
-- 👀 I’m interested in **Html**, **Css** and **Javascript**
+- 👀 I work with **Html**, **Css**, **Javascript** and **React**
 
 - :blue_heart: I’m currently working at [**Decathlon Austria**](http://www.decathlon.at/ "Decathlon Austria")
   - as **Webmarketer**
